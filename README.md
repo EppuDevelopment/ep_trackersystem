@@ -17,6 +17,8 @@ a simple but cool tracker system. Works with ESX, QBX & QBCore.
 
 2. `ensure ep_trackersystem` after dependencies.
 
+3. Go add feedback at https://discord.gg/DzrZ5DWB3H
+
 
 ## Configuration
 
