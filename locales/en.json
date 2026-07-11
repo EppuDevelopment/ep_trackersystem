@@ -1,0 +1,19 @@
+{
+  "blip.default_name": "Patrol",
+  "notifications.enabled": "Tracker enabled.",
+  "notifications.disabled": "Tracker disabled.",
+  "notifications.not_authorized": "Your job cannot use the tracker.",
+  "notifications.job_changed_disabled": "Tracker disabled because your job is no longer allowed.",
+  "notifications.patrol_id_updated": "Patrol ID updated.",
+  "notifications.invalid_patrol_id": "Invalid patrol ID.",
+  "menu.title": "Tracker",
+  "menu.enable_title": "Enable tracker",
+  "menu.disable_title": "Disable tracker",
+  "menu.enable_description": "Share your location with other units",
+  "menu.disable_description": "Stop sharing your location on the map",
+  "menu.change_patrol_id_title": "Change patrol ID",
+  "menu.change_patrol_id_description": "Set the ID shown on the map, e.g. 223",
+  "input.patrol_id_title": "Patrol ID",
+  "input.patrol_id_label": "Patrol ID",
+  "input.patrol_id_description": "For example 223"
+}

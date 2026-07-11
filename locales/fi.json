@@ -1,0 +1,19 @@
+{
+  "blip.default_name": "Partio",
+  "notifications.enabled": "Paikannin otettu käyttöön.",
+  "notifications.disabled": "Paikannin poistettu käytöstä.",
+  "notifications.not_authorized": "Työsi ei voi käyttää paikanninta.",
+  "notifications.job_changed_disabled": "Paikannin poistettiin käytöstä, koska työsi ei ole enää sallittu.",
+  "notifications.patrol_id_updated": "Partiotunnus päivitetty.",
+  "notifications.invalid_patrol_id": "Virheellinen partiotunnus.",
+  "menu.title": "Paikannin",
+  "menu.enable_title": "Ota paikannin käyttöön",
+  "menu.disable_title": "Poista paikannin käytöstä",
+  "menu.enable_description": "Jaa sijaintisi muille yksiköille",
+  "menu.disable_description": "Lopeta sijainnin jakaminen kartalla",
+  "menu.change_patrol_id_title": "Vaihda partiotunnus",
+  "menu.change_patrol_id_description": "Aseta kartalla näkyvä tunnus, esim. 223",
+  "input.patrol_id_title": "Partiotunnus",
+  "input.patrol_id_label": "Partiotunnus",
+  "input.patrol_id_description": "Esimerkiksi 223"
+}
